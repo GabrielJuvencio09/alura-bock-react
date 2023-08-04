@@ -1,0 +1,33 @@
+.App{
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(35deg, #002F52 25%, #326589);
+}
+
+.App-header{
+    background-color: #ffff;  
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.lista{
+    display: flex;
+}
+
+.opcao{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    padding: 0 5%;
+    cursor: pointer;
+    min-width: 120px;
+    font-size: 15px;
+    
+
+}
+
+li{
+    list-style: none;
+}
