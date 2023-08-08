@@ -1,0 +1,13 @@
+.lista{
+    display: flex;
+    gap: 3px;
+}
+
+.opcao{
+    text-align: center;
+    height: 100%;
+    padding: 0 5%;
+    cursor: pointer;
+    min-width: 120px;
+    font-size: 15px;
+}
